@@ -15,7 +15,6 @@ This project features a vibrant, berry-themed visual experience where elements r
 * **HTML5** - Semantic structure.
 * **CSS3** - Custom styling and radial gradients.
 * **JavaScript (ES6)** - Core logic.
-* **GSAP (GreenSock Animation Platform)** - Industry-standard animation engine.
 * **ScrollTrigger Plugin** - For scroll-driven interactions.
 
 ## 📸 Demo Preview
