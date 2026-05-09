@@ -1,7 +1,8 @@
 # Juicy - Interactive GSAP Landing Page
 
-A premium, high-performance landing page showcasing advanced web animations and parallax scrolling effects. This project was built to explore the synergy between creative design and technical implementation using **GSAP** and **ScrollTrigger**.
+> **Live Preview:** [hasan-hadba.github.io/Juicy-GSAP-LandingPage/](https://hasan-hadba.github.io/Juicy-GSAP-LandingPage/)
 
+A premium, high-performance landing page showcasing advanced web animations...
 ## 🚀 Overview
 This project features a vibrant, berry-themed visual experience where elements react dynamically to the user's scroll. The centerpiece is a 3D-like product movement that transitions smoothly across different sections of the page.
 
